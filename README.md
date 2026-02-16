@@ -1,11 +1,11 @@
-# 🔁 Java Recursion Practice
+#  Java Recursion Practice
 
 This repository contains my hands-on practice of **Recursion in Java**.  
 I solved 20+ problems to build strong understanding of recursive thinking, base cases, and problem decomposition.
 
 ---
 
-## 🚀 Topics Covered
+## Topics Covered
 
 - What is Recursion
 - Base Case & Recursive Case
@@ -16,9 +16,9 @@ I solved 20+ problems to build strong understanding of recursive thinking, base 
 
 ---
 
-## 🧠 Problems Implemented
+#Problems Implemented
 
-### 🟢 Basic Recursion
+###  Basic Recursion
 - Factorial of a number
 - Fibonacci series
 - Sum of N natural numbers
@@ -26,7 +26,7 @@ I solved 20+ problems to build strong understanding of recursive thinking, base 
 - Print numbers from 1 to N
 - Reverse a number
 
-### 🟡 Intermediate Problems
+### Intermediate Problems
 - Check palindrome (string/number)
 - Sum of digits
 - Count digits
@@ -34,7 +34,7 @@ I solved 20+ problems to build strong understanding of recursive thinking, base 
 - Tower of Hanoi
 - GCD using recursion
 
-### 🔴 Advanced / Interview Style
+###  Advanced / Interview Style
 - Subsequence generation
 - Permutations of a string
 - N-Queens (if included)
@@ -88,9 +88,6 @@ Madhav Gaikwad
 B.Tech CSE Student | Aspiring Software Engineer
 
 ⭐ If you found this useful, consider giving the repo a star!
-
-
----
 
 ## 🔥 Pro Tip (Important for Placements)
 
